@@ -10,7 +10,7 @@
 | Screenshots | `screenshots/` |
 | Live product URL | `LIVE_URL.txt` (and below) |
 
-**Live URL:** _(fill in after deploying)_
+**Live URL:** My Card is not working thats why i couldnt deploy it. You can run it locally by npm start
 **Test accounts:** alice@ajaia.test / ben@ajaia.test / chloe@ajaia.test, password `ajaia-demo-1`
 
 ## Status

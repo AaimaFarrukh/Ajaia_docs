@@ -1,1 +1,1 @@
-PASTE YOUR DEPLOYED URL HERE
+My Card is not working thats why i couldnt deploy it. You can run it locally by npm start
